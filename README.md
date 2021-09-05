@@ -155,10 +155,10 @@
 
 ## Medium Post
 <!-- BLOG-POST-LIST:START -->
+- [[GitHub] ใช้ GitHub Actions ดึงบทความมาแสดงใน GitHub Profile](https://blog.me-idea.in.th/github-%E0%B9%83%E0%B8%8A%E0%B9%89-github-actions-%E0%B8%94%E0%B8%B6%E0%B8%87%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B9%83%E0%B8%99-github-profile-4ce101c16f9b?source=rss-b7676633f719------2)
 - [[GitHub] Custom GitHub Profile](https://blog.me-idea.in.th/github-custom-github-profile-28774eab0a46?source=rss-b7676633f719------2)
 - [เขียน Automator บน MacBook สร้าง Quick Action แปลงไฟล์รูปเป็น JPEG](https://blog.me-idea.in.th/%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-automator-%E0%B8%9A%E0%B8%99-macbook-%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-quick-action-%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%87%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-jpeg-bf47e9ddb872?source=rss-b7676633f719------2)
 - [เขียน Automator บน MacBook สร้าง Quick Action Generate PDF from website](https://blog.me-idea.in.th/%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-automator-%E0%B8%9A%E0%B8%99-macbook-%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-quick-action-generate-pdf-from-website-3cabf1eb7e9a?source=rss-b7676633f719------2)
-- [เขียน Automator บน MacBook สร้าง Quick Action แสดงความกว้าง x ความสูงของรูป](https://blog.me-idea.in.th/%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-automator-%E0%B8%9A%E0%B8%99-macbook-%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-quick-action-%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%87-x-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B9%E0%B8%9B-993dd905da?source=rss-b7676633f719------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Github Stats
