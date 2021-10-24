@@ -155,10 +155,10 @@
 
 ## Medium Post
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Build deploy to Cloud Run](https://blog.me-idea.in.th/cloud-build-deploy-to-cloud-run-9503598ac674?source=rss-b7676633f719------2)
 - [ลองใช้ Cloud Build สร้าง Docker Image ใน Container Registry](https://blog.me-idea.in.th/%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%8A%E0%B9%89-cloud-build-%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-docker-image-%E0%B9%83%E0%B8%99-container-registry-4159cf8c8a04?source=rss-b7676633f719------2)
 - [[Expo] ทำ Notification ใน iOS โดยใช้ Apple Push Notification service (APNs)](https://blog.me-idea.in.th/expo-%E0%B8%97%E0%B8%B3-notification-%E0%B9%83%E0%B8%99-ios-%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%83%E0%B8%8A%E0%B9%89-apple-push-notification-service-apns-11e314e27b93?source=rss-b7676633f719------2)
 - [[Expo] ทำ Notification ใน Android โดยใช้ Firebase Cloud Messaging](https://blog.me-idea.in.th/expo-%E0%B8%97%E0%B8%B3-notification-%E0%B9%83%E0%B8%99-android-%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%83%E0%B8%8A%E0%B9%89-firebase-cloud-messaging-2785ae4814a3?source=rss-b7676633f719------2)
-- [[Line] จับมือทำ สลับ Rich Menu](https://blog.me-idea.in.th/line-%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%97%E0%B8%B3-%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%9A-rich-menu-714b9d85c52f?source=rss-b7676633f719------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Github Stats
