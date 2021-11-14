@@ -155,10 +155,10 @@
 
 ## Medium Post
 <!-- BLOG-POST-LIST:START -->
-- [ทดลองสร้าง Token ของตัวเองใน Solana (Devnet Network)](https://blog.me-idea.in.th/%E0%B8%97%E0%B8%94%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-token-%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%99-solana-devnet-network-ed7f46c69729?source=rss-b7676633f719------2)
+- [[SOLANA] เพิ่มเหรียญที่สร้างใส่ใน Token List &lpar;หลังจากที่สร้าง Token บน Mainnet&rpar;](https://blog.me-idea.in.th/solana-%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%8D%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B9%83%E0%B8%99-token-list-%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-token-%E0%B8%9A%E0%B8%99-mainnet-e4aa9ff92b38?source=rss-b7676633f719------2)
+- [ทดลองสร้าง Token ของตัวเองใน Solana &lpar;Devnet Network&rpar;](https://blog.me-idea.in.th/%E0%B8%97%E0%B8%94%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-token-%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%99-solana-devnet-network-ed7f46c69729?source=rss-b7676633f719------2)
 - [ใช้ Docker Desktop เชื่อมกับ Kubernetes บน Google Kubernetes Engine](https://blog.me-idea.in.th/%E0%B9%83%E0%B8%8A%E0%B9%89-docker-desktop-%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A-kubernetes-%E0%B8%9A%E0%B8%99-google-kubernetes-engine-429412fbbe3f?source=rss-b7676633f719------2)
 - [Cloud Build deploy to Cloud Run](https://blog.me-idea.in.th/cloud-build-deploy-to-cloud-run-9503598ac674?source=rss-b7676633f719------2)
-- [ลองใช้ Cloud Build สร้าง Docker Image ใน Container Registry](https://blog.me-idea.in.th/%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%8A%E0%B9%89-cloud-build-%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-docker-image-%E0%B9%83%E0%B8%99-container-registry-4159cf8c8a04?source=rss-b7676633f719------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Github Stats
