@@ -155,10 +155,10 @@
 
 ## Medium Post
 <!-- BLOG-POST-LIST:START -->
+- [Farm Labs ทบต้นยังไงให้คุ้มค่าที่สุด](https://blog.me-idea.in.th/farm-labs-%E0%B8%97%E0%B8%9A%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B8%E0%B8%94-6528edee604e?source=rss-b7676633f719------2)
 - [[SOLANA]สร้าง NFT Minting Website ด้วย Candy Machine](https://blog.me-idea.in.th/solana-%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-nft-minting-website-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-candy-machine-f68dd4bb332b?source=rss-b7676633f719------2)
 - [[SOLANA] ทำ Airdrop ส่งใน Discord ด้วย Gumdrop](https://blog.me-idea.in.th/solana-%E0%B8%97%E0%B8%B3-airdrop-%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%99-discord-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-gumdrop-4b7b8660e6c1?source=rss-b7676633f719------2)
 - [รีวิวการซื้อ Ledger Nano X สั่งตรงจาก Shop Ledger](https://blog.me-idea.in.th/%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD-ledger-nano-x-%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81-shop-ledger-d6847edcb134?source=rss-b7676633f719------2)
-- [Connect Phantom Wallet และแสดง SPL Token ที่สร้างด้วย Nextjs](https://blog.me-idea.in.th/connect-phantom-wallet-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87-spl-token-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-nextjs-1e01113e8c7f?source=rss-b7676633f719------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Github Stats
