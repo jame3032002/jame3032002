@@ -155,10 +155,10 @@
 
 ## Medium Post
 <!-- BLOG-POST-LIST:START -->
+- [Tips! แปลง BUSD เป็น USDC ไม่ต้องเสียค่าธรรมเนียม](https://blog.me-idea.in.th/tips-%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%87-busd-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-usdc-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%A1-75c7bcb9b7cf?source=rss-b7676633f719------2)
 - [ปรับให้ RabbitMQ Consumer ให้ Reconnect เวลาหลุด](https://blog.me-idea.in.th/%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%83%E0%B8%AB%E0%B9%89-rabbitmq-consumer-%E0%B9%83%E0%B8%AB%E0%B9%89-reconnect-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94-a2cedc61f4bd?source=rss-b7676633f719------2)
 - [Farm Labs ทบต้นยังไงให้คุ้มค่าที่สุด](https://blog.me-idea.in.th/farm-labs-%E0%B8%97%E0%B8%9A%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B8%E0%B8%94-6528edee604e?source=rss-b7676633f719------2)
 - [[SOLANA]สร้าง NFT Minting Website ด้วย Candy Machine](https://blog.me-idea.in.th/solana-%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-nft-minting-website-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-candy-machine-f68dd4bb332b?source=rss-b7676633f719------2)
-- [[SOLANA] ทำ Airdrop ส่งใน Discord ด้วย Gumdrop](https://blog.me-idea.in.th/solana-%E0%B8%97%E0%B8%B3-airdrop-%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%99-discord-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-gumdrop-4b7b8660e6c1?source=rss-b7676633f719------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Github Stats
