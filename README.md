@@ -155,10 +155,10 @@
 
 ## Medium Post
 <!-- BLOG-POST-LIST:START -->
+- [[บันทึก]เริ่มต้นเขียน Rust Programming &lpar;Variables and Mutability&rpar;](https://blog.me-idea.in.th/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81-%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-rust-programming-variables-and-mutability-31ca27dbc336?source=rss-b7676633f719------2)
 - [[บันทึก]เริ่มต้นเขียน Rust Programming &lpar;Hello Rust World&rpar;](https://blog.me-idea.in.th/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81-%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-rust-programming-hello-rust-world-f2162b513f0d?source=rss-b7676633f719------2)
 - [Tips! แก้ปัญหาปิด Terminal &lpar;Oh my zsh&rpar; แล้ว $PATH ที่ export เมื่อกี้หายไป](https://blog.me-idea.in.th/tips-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%B4%E0%B8%94-terminal-oh-my-zsh-%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7-path-%E0%B8%97%E0%B8%B5%E0%B9%88-export-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%81%E0%B8%B5%E0%B9%89%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%9B-3bbc076fa2e6?source=rss-b7676633f719------2)
 - [[Docker] ใช้ docker-compose 2 อัน มองเห็น Service กันและกัน](https://blog.me-idea.in.th/docker-%E0%B9%83%E0%B8%8A%E0%B9%89-docker-compose-2-%E0%B8%AD%E0%B8%B1%E0%B8%99-%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99-service-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99-11ed390b90c7?source=rss-b7676633f719------2)
-- [Publish บทความบน Medium แล้วให้แจ้งเตือนใน Discord](https://blog.me-idea.in.th/publish-%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%9A%E0%B8%99-medium-%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%95%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%99-discord-1b163d34c471?source=rss-b7676633f719------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Github Stats
