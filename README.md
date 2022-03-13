@@ -155,10 +155,10 @@
 
 ## Medium Post
 <!-- BLOG-POST-LIST:START -->
+- [[บันทึก]เริ่มต้นเขียน Rust Programming &lpar;Control Flow&rpar;](https://blog.me-idea.in.th/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81-%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-rust-programming-control-flow-c4c2639a6449?source=rss-b7676633f719------2)
 - [[บันทึก]เริ่มต้นเขียน Rust Programming &lpar;Functions, Comments&rpar;](https://blog.me-idea.in.th/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81-%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-rust-programming-functions-comments-90e298e14f36?source=rss-b7676633f719------2)
 - [[บันทึก]เริ่มต้นเขียน Rust Programming &lpar;Data Types&rpar;](https://blog.me-idea.in.th/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81-%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-rust-programming-data-types-85a1c2fdb925?source=rss-b7676633f719------2)
 - [[บันทึก]เริ่มต้นเขียน Rust Programming &lpar;Variables and Mutability&rpar;](https://blog.me-idea.in.th/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81-%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-rust-programming-variables-and-mutability-31ca27dbc336?source=rss-b7676633f719------2)
-- [[บันทึก]เริ่มต้นเขียน Rust Programming &lpar;Hello Rust World&rpar;](https://blog.me-idea.in.th/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81-%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-rust-programming-hello-rust-world-f2162b513f0d?source=rss-b7676633f719------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Github Stats
