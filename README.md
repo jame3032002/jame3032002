@@ -155,10 +155,10 @@
 
 ## Medium Post
 <!-- BLOG-POST-LIST:START -->
+- [ประสบการณ์ทำงานที่ Co working space](https://blog.me-idea.in.th/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-co-working-space-6afe3889cf46?source=rss-b7676633f719------2)
 - [รวมแหล่งรับเหรียญ ETH &lpar;Testnet ของแต่ละอัน&rpar;](https://blog.me-idea.in.th/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%81%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%8D-eth-testnet-%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B8%B1%E0%B8%99-52fa2419093c?source=rss-b7676633f719------2)
 - [[React Native] ตั้งค่า ESLint + Prettier](https://blog.me-idea.in.th/react-native-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%84%E0%B9%88%E0%B8%B2-eslint-prettier-a53d2bf2a958?source=rss-b7676633f719------2)
 - [[บันทึก] เมื่อผมติดโควิด](https://blog.me-idea.in.th/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9C%E0%B8%A1%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B9%82%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94-f963e7923efb?source=rss-b7676633f719------2)
-- [แชร์จอ Iphone ใส่ใน Macbook](https://blog.me-idea.in.th/%E0%B9%81%E0%B8%8A%E0%B8%A3%E0%B9%8C%E0%B8%88%E0%B8%AD-iphone-%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B9%83%E0%B8%99-macbook-193ad4343045?source=rss-b7676633f719------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Github Stats
