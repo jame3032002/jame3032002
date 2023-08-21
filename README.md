@@ -155,10 +155,10 @@
 
 ## Medium Post
 <!-- BLOG-POST-LIST:START -->
-- [ย้ายไปเขียนที่ kajame.xyz](https://blog.me-idea.in.th/%E0%B8%A2%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-kajame-xyz-d458c44949a2?source=rss-b7676633f719------2)
-- [Restore ข้อมูลใส่ Mongo DB ใน Docker container](https://blog.me-idea.in.th/restore-%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B9%83%E0%B8%AA%E0%B9%88-mongo-db-%E0%B9%83%E0%B8%99-docker-286b2afde2e?source=rss-b7676633f719------2)
-- [[รีวิวหนังสือ] เมื่อมนุษย์งาน ไม่อยากทำงาน &lpar;The Truth About Employee Engagement&rpar;](https://blog.me-idea.in.th/%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%87%E0%B8%B2%E0%B8%99-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99-the-truth-about-employee-engagement-da236b17e25f?source=rss-b7676633f719------2)
-- [ประสบการณ์ทำงานที่ Co working space](https://blog.me-idea.in.th/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-co-working-space-6afe3889cf46?source=rss-b7676633f719------2)
+- [ลองสร้าง Project Laravel ใส่ใน Nginx ใน Docker](https://kajame.xyz/blog/how-to-create-docker-container-nginx-and-laravel-project)
+- [ลองสร้าง project php หลายตัวใส่ใน nginx ใน docker](https://kajame.xyz/blog/how-to-create-docker-container-nginx-and-php-multiple-project)
+- [Tip! การใช้ ssh โดยใช้ชื่อ host](https://kajame.xyz/blog/ssh-with-host)
+- [ทำ Login with Facebook ใน React Native &lpar;ios&rpar;](https://kajame.xyz/blog/react-native-using-login-with-facebook)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Github Stats
