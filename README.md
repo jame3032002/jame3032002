@@ -155,10 +155,10 @@
 
 ## Medium Post
 <!-- BLOG-POST-LIST:START -->
+- [เรียนรู้การใช้งาน migrate-mongo](https://kajame.xyz/blog/migration-mongo)
 - [ทำความรู้จัก .pipe&lpar;&rpar; ใน Node.js](https://kajame.xyz/blog/what-is-pipe-in-node-js)
 - [ทำ API ให้แสดงไฟล์ PDF บน Express](https://kajame.xyz/blog/create-an-api-to-display-pdf-files-with-express)
 - [ลองสร้าง Project Laravel ใส่ใน Nginx ใน Docker](https://kajame.xyz/blog/how-to-create-docker-container-nginx-and-laravel-project)
-- [ลองสร้าง project php หลายตัวใส่ใน nginx ใน docker](https://kajame.xyz/blog/how-to-create-docker-container-nginx-and-php-multiple-project)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Github Stats
