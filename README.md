@@ -155,10 +155,10 @@
 
 ## Medium Post
 <!-- BLOG-POST-LIST:START -->
+- [เรียนรู้การใช้งาน Strapi เบื้องต้น &lpar;Population&rpar;](https://kajame.xyz/blog/2024/strapi-on-docker-ep3)
 - [เรียนรู้การใช้งาน Strapi เบื้องต้น &lpar;find, findOne&rpar;](https://kajame.xyz/blog/2024/strapi-on-docker-ep2)
 - [ทำ Strapi ให้อยู่บน Docker](https://kajame.xyz/blog/strapi-on-docker)
 - [เรียนรู้การใช้งาน migrate-mongo](https://kajame.xyz/blog/migration-mongo)
-- [ทำความรู้จัก .pipe&lpar;&rpar; ใน Node.js](https://kajame.xyz/blog/what-is-pipe-in-node-js)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Github Stats
