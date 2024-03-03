@@ -155,10 +155,10 @@
 
 ## Medium Post
 <!-- BLOG-POST-LIST:START -->
+- [ย้าย Repository ไปที่ใหม่โดยเอา commit ไปด้วย](https://kajame.xyz/blog/2024/move-repository)
 - [ทำ Rate limit ใน express ด้วย express-rate-limit](https://kajame.xyz/blog/2024/express-rate-limit)
 - [สร้าง Command-Line เปลี่ยน Type ของ Image ด้วย Sharp](https://kajame.xyz/blog/2024/create-change-image-type-cli)
 - [เรียนรู้การใช้งาน Strapi เบื้องต้น &lpar;Population&rpar;](https://kajame.xyz/blog/2024/strapi-on-docker-ep3)
-- [เรียนรู้การใช้งาน Strapi เบื้องต้น &lpar;find, findOne&rpar;](https://kajame.xyz/blog/2024/strapi-on-docker-ep2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Github Stats
