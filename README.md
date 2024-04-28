@@ -155,10 +155,10 @@
 
 ## Medium Post
 <!-- BLOG-POST-LIST:START -->
+- [ทำ Dark mode ใน Next.js แบบ &lpar;App Directory&rpar;](https://kajame.xyz/blog/2024/dark-mode-next-js)
 - [เรียนรู้ - useCallback](https://kajame.xyz/blog/2024/react-use-callback)
 - [ทำสองภาษาใน Next.js ที่เป็น App directory](https://kajame.xyz/blog/2024/i18n-with-nextjs-app-directory)
 - [ย้าย Repository ไปที่ใหม่โดยเอา commit ไปด้วย](https://kajame.xyz/blog/2024/move-repository)
-- [ทำ Rate limit ใน express ด้วย express-rate-limit](https://kajame.xyz/blog/2024/express-rate-limit)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Github Stats
