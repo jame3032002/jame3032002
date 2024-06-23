@@ -155,10 +155,10 @@
 
 ## Medium Post
 <!-- BLOG-POST-LIST:START -->
-- [เรียนรู้ Go หัดทำ API ด้วย gin](https://kajame.xyz/blog/2024/go-learning-ep-01)
+- [เรียนรู้ Go - สร้าง Docker image สำหรับโปรเจค Go](https://kajame.xyz/blog/2024/go-learning-ep-02)
+- [เรียนรู้ Go - หัดทำ API ด้วย gin](https://kajame.xyz/blog/2024/go-learning-ep-01)
 - [ทำ Dark mode ใน Next.js แบบ &lpar;App Directory&rpar;](https://kajame.xyz/blog/2024/dark-mode-next-js)
 - [เรียนรู้ - useCallback](https://kajame.xyz/blog/2024/react-use-callback)
-- [ทำสองภาษาใน Next.js ที่เป็น App directory](https://kajame.xyz/blog/2024/i18n-with-nextjs-app-directory)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Github Stats
