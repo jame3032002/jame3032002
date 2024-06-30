@@ -155,10 +155,10 @@
 
 ## Medium Post
 <!-- BLOG-POST-LIST:START -->
+- [เรียนรู้ Go - compile อัตโนมัติ ด้วย Air บน Docker](https://kajame.xyz/blog/2024/go-learning-ep-03)
 - [เรียนรู้ Go - สร้าง Docker image สำหรับโปรเจค Go](https://kajame.xyz/blog/2024/go-learning-ep-02)
 - [เรียนรู้ Go - หัดทำ API ด้วย gin](https://kajame.xyz/blog/2024/go-learning-ep-01)
 - [ทำ Dark mode ใน Next.js แบบ &lpar;App Directory&rpar;](https://kajame.xyz/blog/2024/dark-mode-next-js)
-- [เรียนรู้ - useCallback](https://kajame.xyz/blog/2024/react-use-callback)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Github Stats
