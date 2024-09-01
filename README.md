@@ -155,7 +155,7 @@
 
 ## Medium Post
 <!-- BLOG-POST-LIST:START -->
-- [เรียนรู้ NestJS - สร้าง Boilerplate มี Prisma + PostgreSQL + Swgger](https://kajame.xyz/blog/2024/learn-nestjs)
+- [เรียนรู้ NestJS - สร้าง Boilerplate มี Prisma + PostgreSQL + Swagger](https://kajame.xyz/blog/2024/learn-nestjs)
 - [เรียนรู้ Go - ทำ Todo API ต่อกับ MongoDB](https://kajame.xyz/blog/2024/go-learning-ep-04)
 - [เรียนรู้ Go - compile อัตโนมัติ ด้วย Air บน Docker](https://kajame.xyz/blog/2024/go-learning-ep-03)
 - [เรียนรู้ Go - สร้าง Docker image สำหรับโปรเจค Go](https://kajame.xyz/blog/2024/go-learning-ep-02)
